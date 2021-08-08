@@ -1,0 +1,30 @@
+[submodule "Plugins/HealthBars"]
+	path = Plugins/HealthBars
+	url = https://github.com/Queuete/HealthBars.git
+[submodule "Plugins/MinimapIcons"]
+	path = Plugins/MinimapIcons
+	url = https://github.com/Queuete/MinimapIcons
+[submodule "Plugins/PreloadAlert"]
+	path = Plugins/PreloadAlert
+	url = https://github.com/Queuete/PreloadAlert
+[submodule "Plugins/SimplePickIt"]
+	path = Plugins/SimplePickIt
+	url = https://github.com/Queuete/SimplePickIt
+[submodule "Plugins/SimpleStashie"]
+	path = Plugins/SimpleStashie
+	url = https://github.com/Queuete/SimpleStashie
+[submodule "Plugins/SimpleHotkeyChain"]
+	path = Plugins/SimpleHotkeyChain
+	url = https://github.com/Queuete/SimpleHotkeyChain
+[submodule "Plugins/BasicFlaskRoutine"]
+	path = Plugins/BasicFlaskRoutine
+	url = https://github.com/IlliumIv/BasicFlaskRoutine
+[submodule "Plugins/copilot"]
+	path = Plugins/copilot
+	url = https://github.com/totalschaden/copilot
+[submodule "Plugins/IconsBuilder"]
+	path = Plugins/IconsBuilder
+	url = https://github.com/Queuete/IconsBuilder
+[submodule "Plugins/DevTree"]
+	path = Plugins/DevTree
+	url = https://github.com/Queuete/DevTree
